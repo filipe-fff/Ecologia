@@ -1,0 +1,11 @@
+.menu{
+    display: none;
+}
+
+menuListaNav {
+    display: block;
+}
+
+.artigo_menu{
+    border: 1px solid red;
+}
